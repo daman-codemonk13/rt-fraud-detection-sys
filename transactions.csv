@@ -1,0 +1,501 @@
+txn_id,user_id,amount,device_id,location,merchant_type,time_of_day,num_txn_last_1hr,is_new_device,account_age_days,is_fraud
+tx_1,user_41,190.85,device_26,Dallas,grocery,afternoon,6,0,72,0
+tx_2,user_34,269.59000000000003,device_20,Miami,restaurant,night,0,0,459,0
+tx_3,user_67,430.25,device_41,New York,grocery,afternoon,3,0,309,0
+tx_4,user_78,734.71,device_46,Miami,restaurant,night,1,0,192,0
+tx_5,user_8,1008.02,device_16,Dallas,restaurant,evening,4,0,22,1
+tx_6,user_2,94.42,device_45,New York,ecommerce,evening,10,0,59,0
+tx_7,user_79,198.12,device_24,Chicago,luxury,afternoon,3,1,783,0
+tx_8,user_77,172.79000000000002,device_14,Seattle,electronics,night,8,0,876,0
+tx_9,user_4,212.41,device_45,Dallas,food,morning,10,0,485,0
+tx_10,user_69,212.07,device_8,Chicago,grocery,night,2,0,274,0
+tx_11,user_53,658.74,device_36,Seattle,restaurant,night,2,0,777,0
+tx_12,user_98,9.22,device_50,Miami,food,night,3,0,367,0
+tx_13,user_42,277.94,device_28,Dallas,luxury,evening,2,0,943,0
+tx_14,user_30,123.08,device_7,Dallas,banking,evening,1,0,872,0
+tx_15,user_46,291.59,device_25,San Francisco,electronics,afternoon,4,0,772,0
+tx_16,user_41,107.88,device_41,Miami,food,evening,5,1,556,0
+tx_17,user_94,627.02,device_29,Dallas,banking,night,2,1,863,0
+tx_18,user_66,585.89,device_1,Chicago,luxury,afternoon,1,0,252,0
+tx_19,user_8,53.26,device_50,Seattle,banking,morning,0,1,749,0
+tx_20,user_78,120.31,device_41,Seattle,electronics,afternoon,6,0,217,0
+tx_21,user_80,110.96,device_16,San Francisco,electronics,evening,5,0,813,0
+tx_22,user_46,90.5,device_16,Miami,restaurant,night,7,0,129,0
+tx_23,user_17,136.31,device_41,Boston,restaurant,evening,2,0,499,0
+tx_24,user_89,284.41999999999996,device_45,Dallas,ecommerce,night,9,0,379,0
+tx_25,user_45,60.39,device_7,San Francisco,ecommerce,evening,2,1,201,0
+tx_26,user_1,233.26,device_31,Seattle,restaurant,afternoon,6,0,503,0
+tx_27,user_14,166.5,device_36,New York,ecommerce,morning,6,0,684,0
+tx_28,user_52,297.98,device_8,Chicago,luxury,morning,5,0,739,0
+tx_29,user_50,107.47,device_22,Chicago,ecommerce,morning,3,1,5,1
+tx_30,user_96,182.78,device_20,San Francisco,banking,morning,0,0,393,0
+tx_31,user_9,342.03,device_11,San Francisco,banking,morning,0,0,461,0
+tx_32,user_81,101.06,device_37,San Francisco,electronics,afternoon,0,0,900,0
+tx_33,user_71,503.25,device_13,Miami,grocery,afternoon,8,0,655,0
+tx_34,user_87,321.75,device_34,Boston,luxury,evening,0,1,839,0
+tx_35,user_49,158.43,device_31,New York,restaurant,night,9,1,682,1
+tx_36,user_55,391.18,device_23,Seattle,electronics,night,10,0,796,0
+tx_37,user_78,373.59,device_35,Boston,electronics,evening,10,0,958,0
+tx_38,user_38,251.02,device_1,Boston,grocery,night,10,0,190,0
+tx_39,user_88,54.32,device_38,Seattle,grocery,afternoon,3,0,628,0
+tx_40,user_75,93.95,device_8,San Francisco,banking,night,5,0,456,0
+tx_41,user_75,218.75,device_21,Miami,banking,afternoon,2,0,819,0
+tx_42,user_75,90.78,device_4,New York,grocery,evening,7,1,374,1
+tx_43,user_31,141.38,device_11,Seattle,banking,night,5,0,113,0
+tx_44,user_22,75.42,device_24,Chicago,banking,afternoon,3,1,510,0
+tx_45,user_35,245.35,device_18,Chicago,restaurant,afternoon,8,0,625,0
+tx_46,user_15,1281.52,device_35,Boston,electronics,afternoon,10,0,642,1
+tx_47,user_100,196.88,device_48,Boston,banking,night,5,0,225,0
+tx_48,user_67,207.22,device_45,Seattle,banking,evening,9,0,730,0
+tx_49,user_50,884.81,device_7,Boston,food,morning,5,0,439,0
+tx_50,user_64,307.78,device_21,Seattle,restaurant,morning,1,0,280,0
+tx_51,user_14,201.09,device_37,Boston,luxury,evening,0,0,511,0
+tx_52,user_99,95.93,device_46,Chicago,electronics,evening,4,0,326,0
+tx_53,user_60,245.02,device_15,Seattle,luxury,night,3,0,955,0
+tx_54,user_97,143.75,device_36,Chicago,grocery,afternoon,6,0,147,0
+tx_55,user_29,160.75,device_29,Dallas,banking,night,1,0,929,0
+tx_56,user_16,144.36,device_8,Miami,grocery,afternoon,7,1,641,1
+tx_57,user_18,286.21000000000004,device_13,Miami,banking,night,10,0,151,0
+tx_58,user_97,201.94,device_50,Chicago,luxury,evening,0,0,764,0
+tx_59,user_23,102.46000000000001,device_12,Boston,grocery,night,0,0,897,0
+tx_60,user_89,35.55,device_45,Seattle,food,morning,5,0,160,0
+tx_61,user_77,213.53,device_36,Chicago,restaurant,morning,8,0,659,0
+tx_62,user_51,265.89,device_16,San Francisco,luxury,afternoon,10,1,54,0
+tx_63,user_94,330.71,device_50,Miami,grocery,morning,9,1,625,1
+tx_64,user_80,77.25999999999999,device_14,Boston,banking,morning,3,0,254,0
+tx_65,user_41,94.85,device_7,Seattle,banking,afternoon,0,0,861,0
+tx_66,user_59,152.79000000000002,device_28,Miami,banking,morning,5,0,163,0
+tx_67,user_33,256.09000000000003,device_33,San Francisco,restaurant,night,2,0,580,0
+tx_68,user_71,79.16,device_46,San Francisco,banking,afternoon,9,0,504,0
+tx_69,user_27,220.75,device_20,San Francisco,luxury,evening,10,0,640,0
+tx_70,user_87,248.01,device_50,Boston,food,night,1,0,470,0
+tx_71,user_25,95.63,device_41,Boston,electronics,afternoon,10,1,365,1
+tx_72,user_86,145.4,device_18,Dallas,ecommerce,night,6,0,226,0
+tx_73,user_71,118.18,device_34,Chicago,grocery,morning,0,0,481,0
+tx_74,user_60,108.44,device_5,Miami,banking,evening,5,0,516,0
+tx_75,user_99,57.92,device_26,Seattle,grocery,night,3,0,172,0
+tx_76,user_34,661.22,device_10,Seattle,ecommerce,night,2,0,518,0
+tx_77,user_81,133.45999999999998,device_36,Seattle,grocery,morning,4,1,497,0
+tx_78,user_70,259.93,device_36,Seattle,restaurant,afternoon,1,1,993,0
+tx_79,user_71,104.67,device_36,San Francisco,banking,morning,4,0,161,0
+tx_80,user_94,98.23,device_47,Seattle,grocery,morning,9,0,735,0
+tx_81,user_10,442.85,device_21,Dallas,electronics,night,7,0,792,0
+tx_82,user_70,97.87,device_18,Chicago,food,morning,5,1,962,0
+tx_83,user_88,64.65,device_1,Seattle,grocery,evening,6,0,104,0
+tx_84,user_83,285.81,device_16,Miami,grocery,night,9,0,39,0
+tx_85,user_28,99.51,device_27,New York,electronics,night,4,1,921,0
+tx_86,user_47,253.1,device_20,San Francisco,electronics,evening,10,0,825,0
+tx_87,user_51,221.72,device_10,Seattle,electronics,morning,4,0,512,0
+tx_88,user_22,119.1,device_16,Miami,ecommerce,morning,7,1,471,1
+tx_89,user_34,75.6,device_36,Dallas,electronics,morning,5,0,959,0
+tx_90,user_25,36.32,device_2,Seattle,food,morning,6,0,190,0
+tx_91,user_18,129.53,device_44,Miami,luxury,night,10,1,305,0
+tx_92,user_96,81.61,device_39,New York,grocery,morning,3,0,444,0
+tx_93,user_38,91.1,device_5,San Francisco,food,evening,6,0,620,0
+tx_94,user_60,267.03999999999996,device_17,New York,ecommerce,night,4,1,992,0
+tx_95,user_53,202.58,device_41,Miami,luxury,afternoon,1,0,936,0
+tx_96,user_83,275.99,device_33,Dallas,banking,evening,9,1,106,0
+tx_97,user_5,99.0,device_2,Miami,banking,night,10,0,787,0
+tx_98,user_20,174.6,device_49,San Francisco,ecommerce,morning,8,0,474,0
+tx_99,user_96,684.48,device_18,Seattle,restaurant,morning,10,0,908,0
+tx_100,user_80,167.17000000000002,device_49,Dallas,ecommerce,morning,3,1,751,0
+tx_101,user_21,109.6,device_50,New York,food,night,1,0,237,0
+tx_102,user_81,85.68,device_20,New York,restaurant,night,6,0,704,0
+tx_103,user_86,187.65,device_2,Boston,ecommerce,afternoon,1,0,963,0
+tx_104,user_36,76.93,device_41,New York,luxury,night,2,0,86,0
+tx_105,user_61,84.9,device_20,Dallas,electronics,afternoon,8,0,47,0
+tx_106,user_8,74.32,device_48,Chicago,luxury,afternoon,7,0,204,0
+tx_107,user_33,97.46,device_46,San Francisco,grocery,afternoon,5,0,551,0
+tx_108,user_79,183.01999999999998,device_23,Dallas,grocery,afternoon,1,0,762,0
+tx_109,user_20,264.34000000000003,device_1,Boston,electronics,afternoon,9,1,180,1
+tx_110,user_83,116.88,device_47,Dallas,ecommerce,morning,2,0,769,0
+tx_111,user_66,163.04,device_29,New York,restaurant,morning,0,0,336,0
+tx_112,user_52,301.68,device_20,Miami,ecommerce,evening,9,0,475,0
+tx_113,user_29,338.84,device_5,New York,food,morning,3,0,380,0
+tx_114,user_45,92.51,device_48,Dallas,restaurant,morning,9,0,613,0
+tx_115,user_11,265.66999999999996,device_12,Chicago,grocery,night,4,1,842,0
+tx_116,user_82,79.31,device_31,Boston,restaurant,evening,7,0,607,0
+tx_117,user_91,133.72,device_9,Seattle,ecommerce,afternoon,9,0,90,0
+tx_118,user_14,106.83,device_41,Dallas,grocery,night,3,0,418,0
+tx_119,user_33,71.41,device_39,Boston,luxury,night,9,0,501,0
+tx_120,user_79,164.65,device_23,Boston,food,evening,1,1,420,0
+tx_121,user_48,148.24,device_3,New York,food,evening,3,0,457,0
+tx_122,user_8,221.11,device_37,Seattle,restaurant,night,8,0,548,0
+tx_123,user_15,121.05,device_11,Boston,food,morning,5,1,736,0
+tx_124,user_76,449.97,device_37,Boston,luxury,evening,10,0,217,0
+tx_125,user_28,88.42,device_45,Boston,luxury,morning,4,1,62,0
+tx_126,user_1,230.26,device_7,Dallas,electronics,night,9,0,699,0
+tx_127,user_59,37.07,device_17,Chicago,restaurant,night,6,1,915,1
+tx_128,user_10,94.15,device_14,Seattle,grocery,night,9,1,735,1
+tx_129,user_46,688.59,device_39,Miami,food,afternoon,6,0,144,0
+tx_130,user_32,135.0,device_24,Seattle,electronics,morning,6,0,891,0
+tx_131,user_54,104.84,device_34,Chicago,grocery,afternoon,7,0,569,0
+tx_132,user_16,81.09,device_24,Seattle,luxury,afternoon,6,0,935,0
+tx_133,user_40,1109.88,device_27,Dallas,restaurant,afternoon,10,0,733,0
+tx_134,user_93,108.44,device_17,Miami,luxury,night,4,1,9,1
+tx_135,user_13,307.69,device_18,Dallas,luxury,night,1,0,519,0
+tx_136,user_48,155.06,device_45,Seattle,luxury,morning,3,0,946,0
+tx_137,user_72,514.9300000000001,device_8,Dallas,electronics,afternoon,2,0,165,0
+tx_138,user_10,65.11,device_31,San Francisco,electronics,evening,9,0,833,0
+tx_139,user_32,445.65,device_3,Miami,food,evening,6,1,217,1
+tx_140,user_84,219.24,device_5,Dallas,restaurant,night,3,0,415,0
+tx_141,user_16,189.43,device_1,Chicago,luxury,evening,0,0,714,0
+tx_142,user_31,516.65,device_7,New York,food,evening,5,0,173,0
+tx_143,user_53,98.28,device_7,Miami,ecommerce,night,5,0,660,0
+tx_144,user_9,90.3,device_5,Seattle,electronics,morning,9,1,935,1
+tx_145,user_21,355.12,device_14,Seattle,food,night,3,0,505,0
+tx_146,user_14,122.96,device_32,Seattle,ecommerce,night,5,1,934,0
+tx_147,user_33,176.66,device_48,San Francisco,electronics,night,7,0,672,0
+tx_148,user_47,213.39,device_45,Seattle,restaurant,afternoon,8,1,886,0
+tx_149,user_76,557.1,device_26,Boston,restaurant,afternoon,1,0,532,0
+tx_150,user_71,66.69,device_28,Seattle,grocery,night,7,0,526,0
+tx_151,user_19,74.77,device_35,Chicago,electronics,afternoon,4,0,886,0
+tx_152,user_32,187.97,device_36,New York,banking,night,3,0,12,0
+tx_153,user_61,657.39,device_43,San Francisco,luxury,morning,9,1,972,0
+tx_154,user_85,34.58,device_2,Dallas,grocery,night,2,0,676,0
+tx_155,user_46,186.61,device_15,Dallas,ecommerce,evening,0,0,540,0
+tx_156,user_28,61.18,device_46,Dallas,electronics,night,4,0,923,0
+tx_157,user_28,260.57,device_24,New York,food,evening,3,0,724,0
+tx_158,user_86,217.65,device_1,Seattle,luxury,night,3,0,547,0
+tx_159,user_48,431.8,device_38,San Francisco,food,morning,1,0,709,0
+tx_160,user_46,260.08000000000004,device_50,Seattle,grocery,evening,3,0,798,0
+tx_161,user_77,411.08,device_38,Seattle,banking,evening,0,0,801,0
+tx_162,user_14,322.66,device_23,Miami,ecommerce,evening,10,1,177,1
+tx_163,user_98,124.56,device_3,Dallas,food,night,10,0,854,0
+tx_164,user_43,406.41,device_36,Boston,luxury,morning,3,1,610,0
+tx_165,user_33,12.5,device_36,Boston,electronics,night,6,0,823,0
+tx_166,user_74,485.09,device_38,San Francisco,luxury,evening,6,0,645,0
+tx_167,user_62,1195.97,device_22,Dallas,luxury,afternoon,9,0,565,1
+tx_168,user_46,657.23,device_39,New York,ecommerce,evening,3,0,85,0
+tx_169,user_58,124.77,device_27,Boston,food,morning,3,1,717,0
+tx_170,user_87,115.44,device_5,New York,restaurant,afternoon,7,0,800,0
+tx_171,user_20,108.61,device_2,Dallas,food,afternoon,10,0,154,0
+tx_172,user_50,195.9,device_38,Chicago,luxury,night,3,0,891,0
+tx_173,user_63,142.57,device_10,Chicago,grocery,evening,7,0,389,0
+tx_174,user_4,79.51,device_32,Seattle,banking,night,1,0,767,0
+tx_175,user_64,88.84,device_12,San Francisco,electronics,evening,9,0,910,0
+tx_176,user_15,298.53,device_9,New York,restaurant,night,1,1,704,0
+tx_177,user_54,44.93,device_31,Dallas,electronics,evening,0,0,850,0
+tx_178,user_79,194.6,device_26,Boston,grocery,afternoon,1,0,994,0
+tx_179,user_78,127.62,device_36,New York,ecommerce,afternoon,4,0,335,0
+tx_180,user_68,156.01999999999998,device_42,San Francisco,grocery,evening,4,0,797,0
+tx_181,user_84,91.82,device_14,San Francisco,grocery,night,6,1,785,1
+tx_182,user_79,151.75,device_45,San Francisco,restaurant,afternoon,7,0,774,0
+tx_183,user_77,216.7,device_29,New York,restaurant,morning,8,0,43,0
+tx_184,user_19,81.93,device_3,San Francisco,banking,afternoon,8,0,95,0
+tx_185,user_70,122.27,device_35,Miami,ecommerce,afternoon,6,0,360,0
+tx_186,user_75,267.48,device_27,Miami,food,afternoon,8,1,195,0
+tx_187,user_30,180.82,device_3,Boston,grocery,evening,4,0,634,0
+tx_188,user_72,75.68,device_14,Dallas,banking,night,0,0,604,0
+tx_189,user_42,111.43,device_26,Chicago,luxury,evening,10,0,513,0
+tx_190,user_87,168.9,device_20,New York,luxury,evening,10,0,546,0
+tx_191,user_72,121.56,device_37,New York,banking,night,2,0,73,0
+tx_192,user_75,70.37,device_36,New York,ecommerce,night,1,0,239,0
+tx_193,user_66,210.35,device_6,Boston,restaurant,evening,6,0,337,0
+tx_194,user_36,69.84,device_3,San Francisco,grocery,evening,9,0,867,0
+tx_195,user_18,123.8,device_17,New York,grocery,evening,6,0,56,0
+tx_196,user_24,226.53,device_16,Chicago,restaurant,evening,2,0,78,0
+tx_197,user_97,154.18,device_45,San Francisco,ecommerce,afternoon,6,0,312,0
+tx_198,user_84,35.57,device_34,San Francisco,banking,afternoon,4,1,750,0
+tx_199,user_99,298.95,device_42,Boston,ecommerce,night,8,0,739,0
+tx_200,user_25,169.22,device_18,San Francisco,banking,night,7,0,485,0
+tx_201,user_100,83.25,device_13,Seattle,grocery,evening,0,0,231,0
+tx_202,user_27,66.69,device_33,Miami,ecommerce,afternoon,2,0,525,0
+tx_203,user_86,252.08,device_36,Dallas,food,evening,10,0,233,0
+tx_204,user_43,228.01,device_19,Dallas,electronics,morning,0,0,776,0
+tx_205,user_88,263.64,device_15,Chicago,luxury,evening,6,0,613,0
+tx_206,user_61,120.22,device_9,Boston,grocery,afternoon,8,0,443,0
+tx_207,user_10,162.04000000000002,device_6,Chicago,food,afternoon,4,0,289,0
+tx_208,user_68,26.51,device_34,Boston,banking,evening,4,0,503,0
+tx_209,user_72,231.81,device_33,Dallas,food,night,6,0,830,0
+tx_210,user_28,355.84,device_14,Seattle,ecommerce,evening,6,1,759,1
+tx_211,user_2,45.6,device_22,Seattle,ecommerce,night,0,0,548,0
+tx_212,user_86,1189.63,device_42,Chicago,ecommerce,night,9,0,732,1
+tx_213,user_33,581.74,device_8,Miami,restaurant,afternoon,3,1,881,0
+tx_214,user_54,189.96,device_1,Chicago,electronics,evening,2,1,194,0
+tx_215,user_27,174.73,device_23,San Francisco,grocery,evening,9,0,173,0
+tx_216,user_64,367.49,device_28,Miami,banking,night,6,1,836,1
+tx_217,user_40,134.82999999999998,device_33,Seattle,restaurant,afternoon,3,0,559,0
+tx_218,user_78,263.66999999999996,device_45,Miami,banking,morning,1,0,805,0
+tx_219,user_31,222.09,device_8,Dallas,grocery,afternoon,1,0,673,0
+tx_220,user_100,106.16,device_30,New York,restaurant,morning,4,0,650,0
+tx_221,user_6,937.24,device_40,Boston,banking,afternoon,4,0,596,0
+tx_222,user_16,135.78,device_26,San Francisco,restaurant,evening,6,0,971,0
+tx_223,user_46,170.17,device_33,Boston,grocery,night,1,0,606,0
+tx_224,user_30,95.57,device_20,Miami,electronics,morning,9,1,236,1
+tx_225,user_80,184.01999999999998,device_42,San Francisco,food,evening,4,1,588,0
+tx_226,user_9,100.36,device_8,Chicago,luxury,afternoon,0,0,918,0
+tx_227,user_65,106.86,device_17,Dallas,ecommerce,afternoon,6,0,873,0
+tx_228,user_61,341.66,device_36,Chicago,luxury,afternoon,5,0,725,0
+tx_229,user_28,128.26,device_21,San Francisco,luxury,morning,1,0,410,0
+tx_230,user_100,569.9,device_47,San Francisco,electronics,evening,3,1,89,0
+tx_231,user_16,305.76,device_32,New York,luxury,afternoon,9,0,526,0
+tx_232,user_32,501.85,device_11,Miami,grocery,morning,6,0,575,0
+tx_233,user_5,168.72,device_1,San Francisco,ecommerce,afternoon,2,0,503,0
+tx_234,user_62,208.8,device_47,Boston,restaurant,evening,1,1,947,0
+tx_235,user_90,230.55,device_7,Seattle,food,night,4,1,391,0
+tx_236,user_45,308.27,device_39,San Francisco,ecommerce,afternoon,9,0,15,0
+tx_237,user_52,458.78,device_24,Chicago,banking,evening,0,0,231,0
+tx_238,user_83,203.26,device_33,San Francisco,banking,evening,0,0,97,0
+tx_239,user_92,276.5,device_48,Dallas,ecommerce,evening,9,0,254,0
+tx_240,user_42,115.77000000000001,device_34,Miami,ecommerce,afternoon,4,0,635,0
+tx_241,user_6,323.0,device_45,Seattle,food,morning,4,0,815,0
+tx_242,user_91,466.75,device_24,Miami,ecommerce,evening,2,0,15,0
+tx_243,user_21,328.2,device_20,Dallas,ecommerce,night,3,0,324,0
+tx_244,user_22,262.21,device_1,Boston,luxury,afternoon,10,0,627,0
+tx_245,user_100,276.8,device_17,Boston,ecommerce,afternoon,4,0,283,0
+tx_246,user_10,99.84,device_33,Dallas,food,evening,9,1,872,1
+tx_247,user_37,251.12,device_20,Miami,electronics,evening,10,0,346,0
+tx_248,user_77,604.56,device_23,New York,grocery,night,3,1,616,0
+tx_249,user_6,234.0,device_49,New York,luxury,morning,6,0,616,0
+tx_250,user_98,491.34,device_45,Miami,ecommerce,morning,7,0,324,0
+tx_251,user_35,353.21,device_38,Boston,luxury,night,5,0,106,0
+tx_252,user_28,330.02,device_41,San Francisco,restaurant,afternoon,3,0,51,0
+tx_253,user_41,310.7,device_22,New York,ecommerce,afternoon,8,1,779,1
+tx_254,user_77,169.87,device_21,Dallas,grocery,evening,9,0,346,0
+tx_255,user_58,423.14,device_9,San Francisco,luxury,evening,0,1,1,0
+tx_256,user_3,466.88,device_21,Dallas,banking,night,4,0,911,0
+tx_257,user_14,178.82999999999998,device_35,San Francisco,banking,evening,8,0,202,0
+tx_258,user_58,354.76,device_22,Chicago,electronics,morning,9,0,575,0
+tx_259,user_72,201.06,device_37,Dallas,banking,morning,7,1,386,1
+tx_260,user_82,220.36,device_18,Dallas,electronics,morning,2,0,529,0
+tx_261,user_29,239.89,device_2,Miami,food,night,5,0,179,0
+tx_262,user_97,86.06,device_30,Dallas,food,night,3,0,710,0
+tx_263,user_92,43.89,device_35,Dallas,restaurant,afternoon,6,0,63,0
+tx_264,user_77,95.03,device_33,Dallas,luxury,evening,3,0,469,0
+tx_265,user_16,229.79,device_5,San Francisco,electronics,evening,1,1,689,0
+tx_266,user_78,252.98,device_50,Miami,food,evening,8,0,701,0
+tx_267,user_6,115.78,device_25,New York,electronics,evening,7,0,141,0
+tx_268,user_45,156.26999999999998,device_19,Dallas,food,night,6,0,723,0
+tx_269,user_66,119.97,device_28,Seattle,food,afternoon,6,0,429,0
+tx_270,user_11,114.87,device_2,San Francisco,ecommerce,evening,3,0,18,0
+tx_271,user_10,120.64,device_5,Boston,grocery,evening,6,0,502,0
+tx_272,user_34,214.24,device_22,Miami,restaurant,morning,3,0,831,0
+tx_273,user_32,33.739999999999995,device_1,Miami,electronics,night,10,1,871,1
+tx_274,user_14,293.87,device_15,Seattle,food,night,3,0,878,0
+tx_275,user_26,240.55,device_33,Chicago,grocery,night,7,1,800,1
+tx_276,user_52,348.74,device_38,New York,grocery,morning,7,0,313,0
+tx_277,user_3,142.2,device_10,Miami,luxury,morning,0,0,767,0
+tx_278,user_72,61.98,device_29,Seattle,food,night,5,0,229,0
+tx_279,user_49,135.34,device_8,San Francisco,banking,evening,5,0,418,0
+tx_280,user_42,419.27,device_13,Miami,electronics,night,2,0,120,0
+tx_281,user_14,348.86,device_31,Dallas,food,morning,7,0,165,0
+tx_282,user_7,48.42,device_13,Dallas,food,evening,8,0,944,0
+tx_283,user_10,96.19,device_45,Chicago,restaurant,morning,3,0,151,0
+tx_284,user_28,399.94,device_50,Seattle,grocery,evening,3,0,700,0
+tx_285,user_33,248.44,device_3,Dallas,restaurant,evening,3,1,916,0
+tx_286,user_14,87.85,device_9,Dallas,electronics,afternoon,7,0,119,0
+tx_287,user_56,71.41,device_25,Dallas,banking,evening,0,0,256,0
+tx_288,user_89,217.61,device_9,Boston,ecommerce,morning,2,0,500,0
+tx_289,user_51,762.19,device_4,Dallas,electronics,night,8,0,158,0
+tx_290,user_61,224.66,device_47,Boston,electronics,evening,6,0,721,0
+tx_291,user_85,217.63,device_2,New York,luxury,evening,9,0,552,0
+tx_292,user_80,269.03,device_41,Boston,ecommerce,afternoon,9,0,758,0
+tx_293,user_73,215.16,device_26,Chicago,electronics,night,10,0,29,1
+tx_294,user_74,128.67000000000002,device_30,Dallas,luxury,night,6,0,838,0
+tx_295,user_25,580.38,device_6,Seattle,banking,evening,4,1,41,0
+tx_296,user_33,85.06,device_23,Miami,electronics,night,0,0,998,0
+tx_297,user_43,445.09,device_14,Seattle,food,night,5,0,342,0
+tx_298,user_53,90.44,device_12,Seattle,luxury,evening,0,0,731,0
+tx_299,user_55,197.97,device_6,Seattle,grocery,night,6,0,821,0
+tx_300,user_7,87.56,device_14,Chicago,ecommerce,evening,0,1,981,0
+tx_301,user_72,146.62,device_19,Dallas,electronics,afternoon,2,0,822,0
+tx_302,user_57,322.91,device_45,Chicago,grocery,morning,2,0,371,0
+tx_303,user_70,81.3,device_32,Boston,ecommerce,night,1,1,11,0
+tx_304,user_37,150.91,device_31,Boston,luxury,afternoon,6,0,227,0
+tx_305,user_88,655.39,device_42,Miami,food,morning,5,0,758,0
+tx_306,user_29,89.01,device_28,Miami,grocery,morning,6,0,548,0
+tx_307,user_50,242.24,device_29,Dallas,ecommerce,morning,8,0,491,0
+tx_308,user_81,451.69,device_9,New York,banking,afternoon,7,0,501,0
+tx_309,user_66,128.44,device_19,New York,banking,night,8,0,217,0
+tx_310,user_27,290.11,device_41,Chicago,restaurant,night,0,0,803,0
+tx_311,user_96,389.96,device_23,Boston,electronics,afternoon,4,1,102,0
+tx_312,user_50,201.43,device_31,Dallas,ecommerce,night,4,0,955,0
+tx_313,user_53,563.54,device_41,Chicago,banking,morning,3,0,569,0
+tx_314,user_86,169.12,device_35,San Francisco,grocery,morning,3,0,592,0
+tx_315,user_12,424.63,device_28,Boston,restaurant,morning,4,0,81,0
+tx_316,user_73,299.05,device_42,Seattle,luxury,afternoon,7,1,537,1
+tx_317,user_49,483.36,device_38,Chicago,ecommerce,night,4,0,922,0
+tx_318,user_53,40.59,device_18,Chicago,food,night,10,0,778,0
+tx_319,user_45,198.47,device_7,Chicago,luxury,morning,5,0,981,0
+tx_320,user_60,139.19,device_4,Dallas,luxury,night,1,0,629,0
+tx_321,user_92,314.63,device_46,New York,grocery,evening,6,0,827,0
+tx_322,user_51,663.43,device_37,Seattle,grocery,afternoon,3,0,372,0
+tx_323,user_5,394.29,device_2,Chicago,food,morning,4,0,615,0
+tx_324,user_56,42.54,device_4,San Francisco,electronics,evening,1,0,620,0
+tx_325,user_89,32.7,device_49,Seattle,ecommerce,night,8,0,936,0
+tx_326,user_88,207.32999999999998,device_27,Seattle,grocery,morning,10,0,527,0
+tx_327,user_54,333.9,device_50,Boston,luxury,afternoon,9,0,921,0
+tx_328,user_72,304.77,device_10,Chicago,ecommerce,night,0,1,426,0
+tx_329,user_35,488.57,device_23,Seattle,luxury,night,4,0,170,0
+tx_330,user_28,944.98,device_18,Chicago,electronics,morning,7,0,416,0
+tx_331,user_83,582.39,device_12,Chicago,electronics,night,4,0,29,0
+tx_332,user_43,388.51,device_19,Dallas,ecommerce,afternoon,4,0,748,0
+tx_333,user_42,257.51,device_14,San Francisco,luxury,afternoon,9,0,377,0
+tx_334,user_65,321.44,device_13,Miami,ecommerce,night,9,0,340,0
+tx_335,user_49,365.56,device_5,Boston,food,evening,2,0,429,0
+tx_336,user_73,121.58,device_41,Boston,restaurant,afternoon,1,1,146,0
+tx_337,user_5,82.21000000000001,device_8,San Francisco,luxury,morning,1,0,949,0
+tx_338,user_91,957.0,device_17,Miami,restaurant,afternoon,6,0,889,0
+tx_339,user_11,243.67,device_28,San Francisco,banking,evening,10,1,805,0
+tx_340,user_66,355.68,device_21,Dallas,luxury,night,6,0,807,0
+tx_341,user_70,472.59,device_46,San Francisco,luxury,night,1,0,62,0
+tx_342,user_1,219.08,device_21,Boston,electronics,morning,10,0,772,0
+tx_343,user_53,76.71000000000001,device_22,Boston,restaurant,evening,1,1,310,0
+tx_344,user_29,265.15999999999997,device_41,Miami,grocery,afternoon,7,0,825,0
+tx_345,user_70,56.82,device_36,Boston,food,afternoon,6,1,517,1
+tx_346,user_88,62.92,device_39,Chicago,electronics,afternoon,0,0,521,0
+tx_347,user_7,590.53,device_25,San Francisco,ecommerce,evening,5,0,419,0
+tx_348,user_94,349.96,device_16,Miami,banking,evening,10,1,3,1
+tx_349,user_33,355.38,device_24,New York,ecommerce,night,5,0,89,0
+tx_350,user_99,197.76,device_4,Dallas,electronics,afternoon,9,1,267,1
+tx_351,user_1,490.86,device_50,Seattle,banking,evening,8,0,541,0
+tx_352,user_75,468.19,device_41,New York,banking,night,5,1,170,0
+tx_353,user_65,375.64,device_48,Miami,food,morning,8,1,395,0
+tx_354,user_11,110.2,device_40,Boston,food,morning,2,0,38,0
+tx_355,user_55,69.15,device_49,New York,ecommerce,morning,4,0,914,0
+tx_356,user_97,80.9,device_49,Chicago,restaurant,night,6,0,796,0
+tx_357,user_2,100.84,device_27,Boston,banking,morning,10,0,301,0
+tx_358,user_28,228.01,device_13,Dallas,banking,night,9,1,323,1
+tx_359,user_32,129.48000000000002,device_26,Dallas,luxury,night,9,0,749,0
+tx_360,user_53,356.78,device_33,Miami,ecommerce,evening,0,0,168,0
+tx_361,user_70,119.28,device_49,Dallas,electronics,evening,6,1,681,1
+tx_362,user_96,130.3,device_3,San Francisco,grocery,night,4,0,170,0
+tx_363,user_10,53.370000000000005,device_5,San Francisco,food,afternoon,3,0,7,0
+tx_364,user_99,475.8,device_47,San Francisco,food,morning,1,1,31,0
+tx_365,user_12,363.53,device_49,Dallas,electronics,afternoon,7,1,437,1
+tx_366,user_41,307.13,device_12,San Francisco,grocery,afternoon,6,0,258,0
+tx_367,user_79,453.92,device_3,Dallas,food,morning,5,0,962,0
+tx_368,user_37,117.67,device_5,Seattle,luxury,evening,2,0,233,0
+tx_369,user_69,298.83000000000004,device_42,Boston,electronics,morning,9,0,448,0
+tx_370,user_14,194.3,device_32,San Francisco,food,morning,10,0,467,0
+tx_371,user_57,364.28,device_50,New York,food,afternoon,9,0,994,0
+tx_372,user_13,147.67000000000002,device_34,Seattle,electronics,evening,0,0,37,0
+tx_373,user_41,93.63,device_15,Chicago,ecommerce,night,6,0,484,0
+tx_374,user_30,109.05,device_43,Miami,luxury,evening,1,0,524,0
+tx_375,user_72,27.95,device_17,Chicago,electronics,night,3,0,22,0
+tx_376,user_50,280.0,device_18,Seattle,food,evening,6,1,704,1
+tx_377,user_9,305.43,device_40,Dallas,luxury,morning,3,0,227,0
+tx_378,user_5,260.48,device_2,New York,grocery,morning,3,0,907,0
+tx_379,user_10,427.65,device_39,San Francisco,ecommerce,evening,2,1,459,0
+tx_380,user_7,259.96000000000004,device_12,Boston,grocery,morning,3,0,738,0
+tx_381,user_42,1255.31,device_45,Miami,luxury,afternoon,5,0,489,0
+tx_382,user_88,68.74000000000001,device_27,Boston,banking,night,0,0,884,0
+tx_383,user_38,417.45,device_38,Chicago,electronics,night,10,0,22,1
+tx_384,user_63,99.16,device_4,Seattle,ecommerce,afternoon,10,1,748,1
+tx_385,user_20,103.36,device_29,Miami,food,morning,1,1,976,0
+tx_386,user_25,477.49,device_5,Dallas,banking,night,1,0,953,0
+tx_387,user_98,121.79,device_18,Seattle,restaurant,afternoon,1,0,934,0
+tx_388,user_55,117.25999999999999,device_21,Dallas,banking,afternoon,2,0,793,0
+tx_389,user_51,273.0,device_6,Chicago,ecommerce,evening,1,1,208,0
+tx_390,user_78,220.72,device_3,San Francisco,ecommerce,afternoon,5,0,657,0
+tx_391,user_70,31.12,device_22,Dallas,ecommerce,evening,8,0,686,0
+tx_392,user_62,226.16,device_11,San Francisco,ecommerce,afternoon,3,0,960,0
+tx_393,user_72,97.68,device_16,New York,electronics,night,10,1,899,1
+tx_394,user_4,60.03,device_36,Dallas,luxury,morning,5,0,206,0
+tx_395,user_4,270.41999999999996,device_48,Chicago,food,morning,1,0,678,0
+tx_396,user_30,115.12,device_12,Dallas,food,afternoon,10,0,501,0
+tx_397,user_86,154.67000000000002,device_8,Chicago,ecommerce,morning,0,0,64,0
+tx_398,user_97,197.47,device_8,Dallas,ecommerce,afternoon,2,0,990,0
+tx_399,user_81,198.68,device_23,San Francisco,electronics,afternoon,6,0,11,0
+tx_400,user_98,274.48,device_37,Dallas,luxury,evening,6,1,425,1
+tx_401,user_56,98.09,device_14,Miami,electronics,afternoon,0,0,553,0
+tx_402,user_20,105.43,device_15,Miami,luxury,afternoon,1,0,592,0
+tx_403,user_75,227.69,device_48,Chicago,ecommerce,morning,2,0,714,0
+tx_404,user_31,305.05,device_37,Chicago,electronics,morning,9,0,745,0
+tx_405,user_28,123.35,device_12,San Francisco,restaurant,evening,1,1,666,0
+tx_406,user_36,171.14,device_12,Miami,electronics,afternoon,5,1,90,0
+tx_407,user_28,252.89,device_43,New York,luxury,evening,7,0,887,0
+tx_408,user_84,300.97,device_49,San Francisco,ecommerce,evening,9,0,635,0
+tx_409,user_55,16.42,device_7,Seattle,luxury,afternoon,10,0,223,0
+tx_410,user_88,235.87,device_42,San Francisco,grocery,night,3,1,690,0
+tx_411,user_38,284.33000000000004,device_14,Boston,luxury,morning,2,0,251,0
+tx_412,user_56,211.48,device_30,Dallas,grocery,evening,6,1,900,1
+tx_413,user_75,208.0,device_47,San Francisco,electronics,afternoon,10,0,515,0
+tx_414,user_32,72.32,device_28,Dallas,banking,night,3,0,971,0
+tx_415,user_43,274.07,device_3,Dallas,restaurant,night,10,0,909,0
+tx_416,user_25,153.51,device_40,Chicago,luxury,night,8,1,356,1
+tx_417,user_54,369.73,device_6,Dallas,luxury,afternoon,6,0,695,0
+tx_418,user_37,56.93,device_48,Miami,banking,night,3,0,914,0
+tx_419,user_94,252.84,device_25,Boston,banking,evening,8,1,873,1
+tx_420,user_50,167.96,device_21,Boston,luxury,afternoon,0,0,35,0
+tx_421,user_89,107.84,device_15,Miami,grocery,evening,2,0,353,0
+tx_422,user_3,420.08,device_8,San Francisco,ecommerce,night,1,1,159,0
+tx_423,user_75,135.54000000000002,device_11,Boston,ecommerce,afternoon,6,0,516,0
+tx_424,user_51,289.87,device_29,Chicago,electronics,night,5,0,562,0
+tx_425,user_1,443.53,device_21,Miami,electronics,night,4,0,866,0
+tx_426,user_38,203.37,device_37,Boston,electronics,evening,0,0,932,0
+tx_427,user_52,155.54000000000002,device_48,Boston,electronics,night,0,1,186,0
+tx_428,user_2,502.91,device_21,San Francisco,banking,afternoon,8,0,530,0
+tx_429,user_92,218.7,device_5,Dallas,banking,evening,6,0,794,0
+tx_430,user_22,349.63,device_10,San Francisco,grocery,night,8,0,940,0
+tx_431,user_69,99.31,device_48,San Francisco,grocery,night,2,0,837,0
+tx_432,user_71,59.33,device_30,Chicago,grocery,morning,1,0,828,0
+tx_433,user_99,121.85,device_2,Miami,restaurant,night,8,0,985,0
+tx_434,user_58,291.31,device_44,Dallas,food,morning,4,0,857,0
+tx_435,user_40,767.43,device_31,Boston,ecommerce,morning,4,1,261,0
+tx_436,user_85,122.66,device_22,Seattle,restaurant,night,8,0,676,0
+tx_437,user_41,751.12,device_29,Chicago,food,night,9,0,10,1
+tx_438,user_69,33.269999999999996,device_22,Chicago,luxury,evening,3,0,605,0
+tx_439,user_56,180.2,device_16,Boston,grocery,morning,6,0,133,0
+tx_440,user_91,104.19,device_12,Miami,electronics,morning,0,1,313,0
+tx_441,user_78,124.55,device_42,Seattle,electronics,night,8,0,107,0
+tx_442,user_66,346.67,device_26,New York,grocery,morning,9,0,497,0
+tx_443,user_5,304.41999999999996,device_20,Boston,luxury,evening,4,0,719,0
+tx_444,user_39,228.35,device_9,Miami,ecommerce,evening,6,0,334,0
+tx_445,user_64,52.76,device_19,San Francisco,food,evening,5,1,797,0
+tx_446,user_71,243.33,device_16,Seattle,ecommerce,afternoon,8,0,757,0
+tx_447,user_41,55.54,device_42,Boston,food,night,4,0,206,0
+tx_448,user_87,257.08000000000004,device_8,New York,food,morning,7,1,216,1
+tx_449,user_86,324.65,device_31,Miami,electronics,night,0,0,185,0
+tx_450,user_24,233.55,device_13,Boston,banking,morning,6,0,178,0
+tx_451,user_86,125.91,device_13,Dallas,luxury,night,4,0,384,0
+tx_452,user_20,84.48,device_33,Chicago,electronics,evening,10,0,746,0
+tx_453,user_76,276.03,device_46,Dallas,banking,morning,2,1,129,0
+tx_454,user_96,295.48,device_17,Chicago,restaurant,afternoon,7,0,517,0
+tx_455,user_42,712.25,device_1,Boston,ecommerce,night,7,0,311,0
+tx_456,user_93,816.17,device_30,New York,food,morning,6,0,114,0
+tx_457,user_26,85.97999999999999,device_5,Dallas,grocery,night,8,1,744,1
+tx_458,user_24,387.65,device_33,Seattle,luxury,evening,5,1,814,0
+tx_459,user_35,506.87,device_26,Boston,banking,afternoon,4,0,976,0
+tx_460,user_21,402.71,device_41,Chicago,food,evening,0,0,602,0
+tx_461,user_26,155.72,device_29,New York,food,evening,2,1,966,0
+tx_462,user_93,113.58,device_8,Boston,luxury,evening,10,0,688,0
+tx_463,user_30,360.21,device_31,San Francisco,ecommerce,evening,9,0,971,0
+tx_464,user_17,429.59,device_11,Dallas,restaurant,afternoon,8,0,454,0
+tx_465,user_89,480.29,device_26,Dallas,food,afternoon,1,0,851,0
+tx_466,user_63,411.36,device_30,New York,banking,morning,4,0,822,0
+tx_467,user_97,298.44,device_40,New York,electronics,afternoon,5,0,76,0
+tx_468,user_57,207.24,device_43,New York,electronics,night,9,0,828,0
+tx_469,user_99,196.04,device_29,New York,grocery,afternoon,3,0,497,0
+tx_470,user_32,211.55,device_45,Dallas,ecommerce,evening,5,0,968,0
+tx_471,user_78,298.65,device_49,Dallas,electronics,morning,10,0,777,0
+tx_472,user_69,125.54,device_48,Chicago,restaurant,afternoon,6,1,450,1
+tx_473,user_43,227.47,device_47,San Francisco,luxury,evening,10,0,12,1
+tx_474,user_30,84.27000000000001,device_34,Boston,electronics,evening,10,0,300,0
+tx_475,user_97,176.52,device_9,New York,electronics,evening,10,0,326,0
+tx_476,user_86,321.77,device_7,Boston,grocery,morning,1,0,407,0
+tx_477,user_38,196.73000000000002,device_35,Chicago,grocery,afternoon,1,0,124,0
+tx_478,user_69,658.71,device_49,San Francisco,ecommerce,night,7,1,783,1
+tx_479,user_77,60.92,device_47,New York,food,evening,2,0,802,0
+tx_480,user_21,108.38,device_22,Seattle,restaurant,evening,7,0,564,0
+tx_481,user_97,254.79,device_33,Dallas,electronics,evening,6,1,291,1
+tx_482,user_73,213.94,device_15,Seattle,restaurant,morning,0,0,2,0
+tx_483,user_17,71.66,device_24,Miami,food,afternoon,5,1,350,0
+tx_484,user_19,138.97,device_40,Seattle,ecommerce,morning,8,1,39,1
+tx_485,user_65,223.96,device_32,Seattle,restaurant,morning,7,0,241,0
+tx_486,user_70,213.55,device_37,Boston,restaurant,night,3,1,84,0
+tx_487,user_32,143.15,device_18,Miami,grocery,morning,2,1,172,0
+tx_488,user_74,59.88,device_25,Dallas,restaurant,night,9,1,887,1
+tx_489,user_36,228.21,device_19,Seattle,banking,night,3,1,905,0
+tx_490,user_79,334.73,device_49,San Francisco,ecommerce,afternoon,6,0,378,0
+tx_491,user_29,135.5,device_28,Boston,food,afternoon,1,1,720,0
+tx_492,user_90,257.66999999999996,device_2,San Francisco,food,evening,7,0,50,0
+tx_493,user_19,327.32,device_24,Dallas,food,morning,3,0,857,0
+tx_494,user_98,60.08,device_22,Boston,grocery,evening,1,0,439,0
+tx_495,user_83,227.67,device_14,Miami,ecommerce,morning,2,0,108,0
+tx_496,user_42,422.26,device_8,Boston,grocery,night,3,0,432,0
+tx_497,user_44,113.87,device_41,New York,food,night,9,0,160,0
+tx_498,user_76,280.2,device_25,San Francisco,electronics,morning,9,0,509,0
+tx_499,user_89,41.05,device_42,Boston,banking,afternoon,0,1,803,0
+tx_500,user_89,203.79,device_23,San Francisco,electronics,evening,1,0,374,0
